@@ -1,0 +1,29 @@
+/* CSS propertsy of target selector */
+.bio {
+  border: 2px solid #d4d4d4;
+  background-color: #d4d4d4;
+  /* color: rgba(red 35, green 27, blue 33, alpha 0.25); */
+  padding: 10px;
+  font-size: 16px;
+  width: 50%;
+  margin: auto;
+  box-shadow: 20px 20px 20px #0e0d11;
+  opacity:1
+}
+.bio-header {
+  color: #fff;
+  text-align: center;
+}
+.bio-title {
+    text-align: center;
+  
+}
+.ImageBio{
+  width:54%;
+  height:100%;
+  margin: auto;
+}
+/* .card-image::content
+width:300px;
+height:600px;
+margin:auto; */
